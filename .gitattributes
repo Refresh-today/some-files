@@ -1,0 +1,2 @@
+IOG_PASCAL_SBD.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
